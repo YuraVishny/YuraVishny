@@ -1,4 +1,4 @@
-## Привет 👋
+## Hello 👋
 - 🌱 I'm currently studying frontend developer
 - 🤔 I need help with the practicum and any free training materials
 - 📫 How to contact me discord: #vishny1506
