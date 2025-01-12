@@ -1,6 +1,6 @@
 ## Hello 👋
-- 🌱 I'm currently studying frontend developer
-- 🤔 I need help with the practicum and any free training materials
+- 🌱 I'm currently studying frontend developer👨‍🎓
+- 🤔 I need help with the practicum and any free training materials👨‍🎓
 - 📫 How to contact me discord: #vishny1506
 - ⚡ Interesting fact: I live in Russia in the city of St. Petersburg.
      I am 30 years old, I have a beloved wife and a little son who is 3 years old.
