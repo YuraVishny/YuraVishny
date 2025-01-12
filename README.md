@@ -1,7 +1,7 @@
 ## Привет 👋
 - 🌱 Я сейчас учусь frontend - developer
-- - 🤔 Мне нужна помощь с practicum and any free training materials
-  - - 📫 Как со мной связаться discord: #vishny1506
+- 🤔 Мне нужна помощь с practicum and any free training materials
+- 📫 Как со мной связаться discord: #vishny1506
 
 
 <!--
